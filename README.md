@@ -1,5 +1,5 @@
 # 🚧  Olá, Seja bem-vindo! 🚧
-## Coloco aqui projetos pessoais, fique a vontade para navegar! 👋
+## Coloco aqui os meus projetos pessoais, fique a vontade para navegar! 👋
 
 ### ✔ Desenvolvedor desde 2017.
 
