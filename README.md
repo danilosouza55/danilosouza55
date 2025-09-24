@@ -33,7 +33,6 @@ src="https://img.shields.io/github/followers/danilosouza55?logo=github&style=for
 <table>
     <tr>
         <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danilosouza55&hide=html&layout=compact&theme=buefy" /></td>
-        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=danilosouza55&theme=buefy"/></td>
     </tr>   
 </table>
 </center>  
