@@ -22,13 +22,13 @@ Apaixonado por criar aplicações mobile com Flutter, APIs robustas com .NET<br/
 
 ```yaml
 nome: Danilo Araújo de Souza
-cargo: Analyst Developer
+cargo: Engenheiro de Software
 empresa: Linx
 localização: Cascavel-PR, Brasil
 foco:
   - Mobile & Web com Flutter/Dart
   - APIs REST com .NET/C#
-  - DevOps com Docker & Kubernetes
+  - DevOps
 ```
 
 ---
